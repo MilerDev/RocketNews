@@ -138,6 +138,7 @@ form{
 }
 a{
     text-decoration:none ;
+    color:#8257E5
 }
 #ip{
     display: flex;
